@@ -1,8 +1,8 @@
 ### Hi, I'm Ruan
 
-Python and automation engineer from Brazil. I design, build and run software that works unattended in production: multi-tenant workers, payment webhooks, LLM pipelines and video processing. I work with AI-assisted development (Claude Code): I design the system, direct and review the code, and operate it.
+Python and automation engineer from Brazil. I design, build and run software that works unattended in production: multi-tenant workers, payment webhooks, LLM pipelines and video processing.
 
-Open to Python backend and AI/automation engineering roles in Ireland and Canada.
+Open to Python backend and AI/automation engineering work.
 
 #### Case studies
 
