@@ -11,7 +11,7 @@ Each one explains the problem, the architecture, the engineering decisions and t
 | Project | What it shows |
 |---|---|
 | [AfiliadoBot](https://github.com/Ruankm/afiliadobot-case-study) | Multi-tenant SaaS: per-tenant workers and queues, WhatsApp and Telegram delivery, webhook billing, production guards |
-| [TrocaTroca](https://github.com/Ruankm/trocatroca-case-study) | Pay-per-second AI video: idempotent payments, money in integer cents, end-to-end launch test |
+| [TrocaTroca](https://github.com/Ruankm/trocatroca-case-study) | Two video tools on one platform: AI person and scenery swap, live-stream clip motors with slot priority, idempotent billing, signed video delivery |
 | [AI News Desk](https://github.com/Ruankm/ai-news-desk-case-study) | Topic-agnostic news page automation: LLM story selection, rendered videos, automatic quality gate, API publishing |
 | [AI Short-Video Editor](https://github.com/Ruankm/ai-video-editor-case-study) | Vocal separation, forced alignment, audio sync and person segmentation for vertical videos |
 | [Automated Content Platform](https://github.com/Ruankm/content-platform-case-study) | Self-deploying Next.js site, data dashboard, community channel automation |
